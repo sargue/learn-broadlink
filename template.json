@@ -1,0 +1,34 @@
+{
+    "manufacturer":"Mitsubishi Electric",
+    "supportedModels":[
+        "MSZ-HR35VF"
+    ],
+    "commandsEncoding":"Base64",
+    "supportedController":"Broadlink",
+    "minTemperature":16,
+    "maxTemperature":31,
+    "precision":1,
+    "operationModes":[
+        "cool",
+        "heat",
+        "dry",
+        "fan_only"
+    ],
+    "fanModes":[
+        "auto",
+        "level1",
+        "level2",
+        "level3",
+        "level4"
+    ],
+    "swingModes":[
+        "auto",
+        "top",
+        "high",
+        "mid",
+        "low",
+        "bottom",
+        "swing"
+    ],
+    "commands":{}
+}
